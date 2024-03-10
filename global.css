@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --text-base: "Noto Sans KR";
+  --font-gmarket-sans-ttf: "Gmarket Sans TTF";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --text-base-size: 16px;
+  --font-size-21xl: 40px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+  --font-size-lg: 18px;
+  --font-size-3xs: 10px;
+  --text-sm-size: 14px;
+  --font-size-61xl: 80px;
+
+  /* Colors */
+  --white: #fff;
+  --black: #212121;
+  --gray-900: #18181b;
+  --gray-200: #e4e4e7;
+  --blue-600: #2563eb;
+  --color-darkslategray: #0c3a57;
+  --color-green: #097300;
+  --color-black: #000;
+  --gray-600: #52525b;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-14xl: 33px;
+  --gap-base: 16px;
+  --gap-3xl: 22px;
+  --gap-xs: 12px;
+  --gap-4xl: 23px;
+  --gap-mid: 17px;
+  --gap-38xl: 57px;
+  --gap-9xl: 28px;
+  --gap-8xs: 5px;
+  --gap-xl: 20px;
+  --gap-0: 0px;
+
+  /* Paddings */
+  --padding-smi: 13px;
+  --padding-10xs: 3px;
+  --padding-2xl: 21px;
+  --padding-xl: 20px;
+  --padding-4xl: 23px;
+  --padding-12xs: 1px;
+  --padding-3xs: 10px;
+  --padding-11xs: 2px;
+  --padding-6xs: 7px;
+  --padding-mid: 17px;
+  --padding-mini: 15px;
+  --padding-5xs: 8px;
+  --padding-9xs: 4px;
+  --padding-8xs: 5px;
+
+  /* Border radiuses */
+  --br-39xl: 58px;
+  --br-9xs: 4px;
+}
